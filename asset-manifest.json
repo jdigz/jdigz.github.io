@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1536392c.chunk.css",
-    "main.js": "/static/js/main.81f85720.chunk.js",
-    "main.js.map": "/static/js/main.81f85720.chunk.js.map",
+    "main.js": "/static/js/main.85e8ae2f.chunk.js",
+    "main.js.map": "/static/js/main.85e8ae2f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9dbfe3e1.js",
     "runtime-main.js.map": "/static/js/runtime-main.9dbfe3e1.js.map",
     "static/js/2.1cb71324.chunk.js": "/static/js/2.1cb71324.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/fb-clone.d6ed7a97.png": "/static/media/fb-clone.d6ed7a97.png",
     "static/media/github-icon.4da5e4a9.svg": "/static/media/github-icon.4da5e4a9.svg",
     "static/media/headshot.71419e84.jpg": "/static/media/headshot.71419e84.jpg",
+    "static/media/ig-clone.70786744.png": "/static/media/ig-clone.70786744.png",
     "static/media/linkedin-icon.a6993c12.svg": "/static/media/linkedin-icon.a6993c12.svg",
     "static/media/ngcpizza.522a8e24.png": "/static/media/ngcpizza.522a8e24.png",
     "static/media/weeklyeats.7d99efc2.png": "/static/media/weeklyeats.7d99efc2.png",
@@ -28,6 +29,6 @@
     "static/js/runtime-main.9dbfe3e1.js",
     "static/js/2.1cb71324.chunk.js",
     "static/css/main.1536392c.chunk.css",
-    "static/js/main.81f85720.chunk.js"
+    "static/js/main.85e8ae2f.chunk.js"
   ]
 }
